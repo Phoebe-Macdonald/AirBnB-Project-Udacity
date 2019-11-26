@@ -35,8 +35,14 @@ The project involved gathering the data, dealing with missing values and categor
     No, there appears to be no relationship between review score and availability.
   
 
-Project 2: Build Disaster Response Pipelines with Figure Eight
+## Project 2
+## Build Disaster Response Pipelines with Figure Eight
+Yet to be completed 
 
-Project 3: Design a Recommendation Engine with IBM
+## Project 3
+## Design a Recommendation Engine with IBM
+Yet to be completed 
 
-Project 4: Data Science Capstone Project
+## Project 4
+## Data Science Capstone Project
+Yet to be completed
