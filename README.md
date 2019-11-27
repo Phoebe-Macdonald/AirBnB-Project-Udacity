@@ -1,12 +1,7 @@
-# Data-Science-Portfolio-Udacity
-Projects from Udacity Data Science Nanodegree
+# AirBnB-Project-Udacity
 
-The following repository has been created as a portfolio for the Udacity Data Science Nanodegree https://www.udacity.com/course/data-scientist-nanodegree--nd025 
+The following project has been created as part of the Udacity Data Science Nanodegree https://www.udacity.com/course/data-scientist-nanodegree--nd025 
 
-The course is made up of 4 projects and there is a folder dedicated to each
-
-## Project 1
-## Write a data science blog post
 ## Motivation:
 The project involved gathering the data, dealing with missing values and categorical variables and analysis to answer 3 key questions: 
   
@@ -20,7 +15,8 @@ The project involved gathering the data, dealing with missing values and categor
   The following project looks at data in the Seattle AirBnB dataset https://www.kaggle.com/airbnb/seattle.
   AirBnB_Project.ipynb - Jupyter notebook with full project analysis including data cleaning and results
   calendar.csv - dataset including AirBnB listing availability and prices
-  listings.csv - dataset including information on AirBnB lisings such as cancellation policy and review score
+  listings.csv - dataset including information on AirBnB listings such as cancellation policy and review score
+  reviews.csv - dataset including review information on AirBnB listings
   
 ## Results:
   A summary of results can be found in Medium artile: https://medium.com/@phoebe.macdonald/how-can-you-increase-your-airbnb-score-and-why-b1e7a011d95 and within the Jupyter notebook.
@@ -33,16 +29,3 @@ The project involved gathering the data, dealing with missing values and categor
     
     3. Do properties with higher reviews more frequently booked up?
     No, there appears to be no relationship between review score and availability.
-  
-
-## Project 2
-## Build Disaster Response Pipelines with Figure Eight
-Yet to be completed 
-
-## Project 3
-## Design a Recommendation Engine with IBM
-Yet to be completed 
-
-## Project 4
-## Data Science Capstone Project
-Yet to be completed
